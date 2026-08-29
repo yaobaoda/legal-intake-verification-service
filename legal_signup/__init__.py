@@ -1,0 +1,2 @@
+"""Legal signup notification workflow."""
+
